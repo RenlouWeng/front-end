@@ -14,7 +14,7 @@
 ``` css
 .blur{
     filter: blur(10px);
-    -webkit-backdrop-filter：blur(10px);   
+    -webkit-filter：blur(10px);   
 }
 
 ```
